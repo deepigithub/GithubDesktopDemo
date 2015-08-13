@@ -25,4 +25,8 @@
     //adding in master.
 }
 
+void (^iAmBlock)() = ^{
+    NSLog(@"New Log");
+};
+
 @end
