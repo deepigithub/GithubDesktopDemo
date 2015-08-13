@@ -16,7 +16,6 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    //added new comment in this line in branch.
 }
 
 - (void)didReceiveMemoryWarning {
