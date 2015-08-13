@@ -16,6 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    //adding master viewdidload
 }
 
 - (void)didReceiveMemoryWarning {
