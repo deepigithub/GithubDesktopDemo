@@ -16,7 +16,11 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+<<<<<<< HEAD
     //added new comment in this line in branch.
+=======
+    //adding master viewdidload
+>>>>>>> master
 }
 
 - (void)didReceiveMemoryWarning {
